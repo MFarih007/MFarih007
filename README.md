@@ -1,11 +1,9 @@
-# 👋 Hi, I'm M Farih Alawi!
+# 👋 Hi, I'm M Farih Alawi, AI-Focused Full Stack Engineer!
 
-Dynamic Full Stack AI Engineer with 3+ years of experience developing scalable web applications and AI-driven solutions. Proficient
-in Python, JavaScript, React, Node.js and Tensorflow, with a focus on integrating machine learning models into production
-environments. Successfully optimized data pipelines and enhanced user engagement by 35% through innovative AI implementations. Passionate about building efficient, user-centric systems and collaborating with corss-functional teams to drive business impact.
+Dynamic Full Stack AI Engineer with 3+ years of experience developing scalable web applications and AI-driven solutions. Proficient in Python, JavaScript, React, Node.js and Tensorflow, with a focus on integrating machine learning models into production environments.
 
-![Your Profile Banner or GIF](https://assets.grok.com/users/a5595b91-0970-458a-9249-74f23d26696b/generated/b0848a70-c5c3-47bb-9c16-0db39092e24f/image.jpg) <!-- Replace with your own image URL -->
-https://assets.grok.com/users/a5595b91-0970-458a-9249-74f23d26696b/generated/b0848a70-c5c3-47bb-9c16-0db39092e24f/image.jpg
+![b0848a70-c5c3-47bb-9c16-0db39092e24f](https://github.com/user-attachments/assets/4607a8ae-d6e7-4f0a-ad8f-1f4f2ac83333)
+
 
 ## 🚀 About Me
 - 🔭 Working on: AI Engineering, Web Development
