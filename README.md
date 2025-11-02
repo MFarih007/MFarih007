@@ -1,16 +1,15 @@
 # 👋 Hi, I'm M Farih Alawi!
 
-I'm a [your profession, e.g., passionate software engineer / data scientist / full-stack developer] building cool stuff with code. Currently focused on [your main interests, e.g., AI, web dev, open-source]. Always up for collaborating on exciting projects!
+Dynamic Full Stack AI Engineer with 3+ years of experience developing scalable web applications and AI-driven solutions. Proficient
+in Python, JavaScript, React, Node.js and Tensorflow, with a focus on integrating machine learning models into production
+environments. Successfully optimized data pipelines and enhanced user engagement by 35% through innovative AI implementations. Passionate about building efficient, user-centric systems and collaborating with corss-functional teams to drive business impact.
 
-![Your Profile Banner or GIF](https://via.placeholder.com/1200x400?text=Your+Banner+Here) <!-- Replace with your own image URL -->
+![Your Profile Banner or GIF](https://avatars.githubusercontent.com/u/233061153?s=400&u=058d07b6c813150d820fc6c564b9733a6adf277e&v=4) <!-- Replace with your own image URL -->
 
 ## 🚀 About Me
-- 🔭 Working on: [Briefly describe your current project or job]
-- 🌱 Learning: [e.g., Rust, Machine Learning, Cloud Computing]
-- 👯 Looking to collaborate on: [e.g., open-source tools or hackathons]
-- 🤔 Fun fact: [Something fun about you, e.g., I once built a robot that makes coffee ☕]
-- 💬 Ask me about: [Your expertise areas]
-- 📫 Reach me: [your email or link]
+- 🔭 Working on: AI Engineering, Web Development
+- 🌱 Learning: Go, Cloud Computing, Automation
+- 💬 Ask me about: AI/ML Engineering, Web Development
 
 ## 🛠️ Skills
 - **Languages**: Python, JavaScript, Java, C++
@@ -19,23 +18,16 @@ I'm a [your profession, e.g., passionate software engineer / data scientist / fu
 - **Other**: SQL, Machine Learning (TensorFlow), DevOps
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&theme=radical&hide_border=true&include_all_commits=false&count_private=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 Achievements
-- [Achievement 1, e.g., Contributed to 50+ open-source repos]
-- [Achievement 2, e.g., Won a hackathon with a team project]
-- [Achievement 3, e.g., Published articles on Medium about tech]
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MFarih007&theme=radical&hide_border=true&include_all_commits=false&count_private=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MFarih007&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-farih-alawi-1a560a38a/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mfarihalawi@gmail.com)
 
 Thanks for visiting! Feel free to star ⭐ or fork my repos if you find them useful.
 
-![Visitor Count](https://visitor-badge.laobi.letswrite.tw/badge?page_id=yourusername.yourusername) <!-- Optional visitor badge -->
+![Visitor Count](https://visitor-badge.laobi.letswrite.tw/badge?page_id=MFarih007.MFarih007) <!-- Optional visitor badge -->
 
 <!--
 **MFarih007/MFarih007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
