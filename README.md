@@ -4,7 +4,8 @@ Dynamic Full Stack AI Engineer with 3+ years of experience developing scalable w
 in Python, JavaScript, React, Node.js and Tensorflow, with a focus on integrating machine learning models into production
 environments. Successfully optimized data pipelines and enhanced user engagement by 35% through innovative AI implementations. Passionate about building efficient, user-centric systems and collaborating with corss-functional teams to drive business impact.
 
-![Your Profile Banner or GIF](https://avatars.githubusercontent.com/u/233061153?s=400&u=058d07b6c813150d820fc6c564b9733a6adf277e&v=4) <!-- Replace with your own image URL -->
+![Your Profile Banner or GIF](https://assets.grok.com/users/a5595b91-0970-458a-9249-74f23d26696b/generated/b0848a70-c5c3-47bb-9c16-0db39092e24f/image.jpg) <!-- Replace with your own image URL -->
+https://assets.grok.com/users/a5595b91-0970-458a-9249-74f23d26696b/generated/b0848a70-c5c3-47bb-9c16-0db39092e24f/image.jpg
 
 ## 🚀 About Me
 - 🔭 Working on: AI Engineering, Web Development
