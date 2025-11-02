@@ -27,7 +27,7 @@ environments. Successfully optimized data pipelines and enhanced user engagement
 
 Thanks for visiting! Feel free to star ⭐ or fork my repos if you find them useful.
 
-![Visitor Count](https://visitor-badge.laobi.letswrite.tw/badge?page_id=MFarih007.MFarih007) <!-- Optional visitor badge -->
+![Visitor Count](https://komarev.com/ghpvc/?username=MFarih007) <!-- Optional visitor badge -->
 
 <!--
 **MFarih007/MFarih007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
