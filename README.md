@@ -2,9 +2,6 @@
 
 Dynamic Full Stack AI Engineer with 3+ years of experience developing scalable web applications and AI-driven solutions. Proficient in Python, JavaScript, React, Node.js and Tensorflow, with a focus on integrating machine learning models into production environments.
 
-![b0848a70-c5c3-47bb-9c16-0db39092e24f](https://github.com/user-attachments/assets/4607a8ae-d6e7-4f0a-ad8f-1f4f2ac83333)
-
-
 ## 🚀 About Me
 - 🔭 Working on: AI Engineering, Web Development
 - 🌱 Learning: Go, Cloud Computing, Automation
